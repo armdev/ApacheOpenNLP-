@@ -1,0 +1,1 @@
+<START:person> Olivier Armen<END> is working on the <START:person> Stanbol <END>
